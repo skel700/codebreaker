@@ -1,0 +1,32 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 1
+Evidence Number: 1
+Unique Description: Testing
+Examiner: Steph
+Notes: Testing
+
+--------------------------------------------------------------
+
+Information for C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main\codebreakertest.ad1:
+[Custom Content Sources]
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq104761307718164-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq10547427327199(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq106611991331233-i(Exact)
+[Computed Hashes]
+ MD5 checksum:    c8602333315ad1c075fd43fed874c8a2
+ SHA1 checksum:   c76357ab29fcd17d87d932df1fc7c59b92db2f5e
+
+Image information:
+ Acquisition started:   Wed Sep 18 15:48:31 2024
+ Acquisition finished:  Wed Sep 18 15:48:31 2024
+ Segment list:
+  C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main\codebreakertest.ad1
+
+Image Verification Results:
+ Verification started:  Wed Sep 18 15:48:31 2024
+ Verification finished: Wed Sep 18 15:48:31 2024
+ MD5 checksum:    c8602333315ad1c075fd43fed874c8a2 : verified
+ SHA1 checksum:   c76357ab29fcd17d87d932df1fc7c59b92db2f5e : verified

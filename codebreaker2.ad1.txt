@@ -1,0 +1,49 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 2
+Evidence Number: 2
+Unique Description: Test2
+Examiner: Steph
+Notes: All codebreaker files
+
+--------------------------------------------------------------
+
+Information for C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main\codebreaker2.ad1:
+[Custom Content Sources]
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq104761307718164-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq10547427327199(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq106611991331233-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq11443983531354-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq124281605616691-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq14878639910112-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq1546319456005-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq185852000615413-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq19769106029710-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq22693251705788-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq2375620826122-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq24531295725532-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq263693983619-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq273142602012043-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq291711437621508-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq303311426013493-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq303991016525090-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq31830818829214-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq500250188995-i(Exact)
+ codebreaker-main:C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main|logseq91243090724014-i(Exact)
+[Computed Hashes]
+ MD5 checksum:    d8c50fee50b8da09200c4f5199d0391f
+ SHA1 checksum:   724e02a15a09b8e8860fbfc38161d15839a63cfd
+
+Image information:
+ Acquisition started:   Wed Sep 18 15:50:02 2024
+ Acquisition finished:  Wed Sep 18 15:50:02 2024
+ Segment list:
+  C:\Users\Stephanie\Downloads\codebreaker-main\codebreaker-main\codebreaker2.ad1
+
+Image Verification Results:
+ Verification started:  Wed Sep 18 15:50:02 2024
+ Verification finished: Wed Sep 18 15:50:02 2024
+ MD5 checksum:    d8c50fee50b8da09200c4f5199d0391f : verified
+ SHA1 checksum:   724e02a15a09b8e8860fbfc38161d15839a63cfd : verified
